@@ -5,3 +5,19 @@
   "celular": "99999999",
   "tipo_cliente": "Premiun/Normal"
 }
+
+{
+  "id": "002",
+  "nombre": "Hugo Lopez",
+  "direccion": "Avenida Peru 150",
+  "celular": "959595959",
+  "tipo_cliente": "Premiun/Normal"
+}
+
+{
+  "id": "003",
+  "nombre": "Carla Diaz",
+  "direccion": "Avenida Las Flores 500",
+  "celular": "987452136",
+  "tipo_cliente": "Premiun/Normal"
+}
